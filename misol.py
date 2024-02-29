@@ -375,3 +375,7 @@
 #     s = s + p
 #     p = 1
 # print(s)
+print("Fotima")
+print("Feruza")
+print("Dunyo")
+print("Salom")
